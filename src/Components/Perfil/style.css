@@ -1,0 +1,25 @@
+.perfilContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+}
+
+.divImg{
+    display: flex;
+}
+
+.divImg img{
+    height: 300px;
+    border-style: solid;
+    border-radius: 150px;
+    border-color: black;
+}
+
+.divSobre{
+    padding: 2rem;
+    font-size: 25px;
+    text-align: justify;
+}
+

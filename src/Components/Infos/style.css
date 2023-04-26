@@ -1,0 +1,16 @@
+.infosContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+.links{
+    margin-right: 0.5rem;
+    padding: 10px;
+    border: 1px solid rgb(13, 110, 253);
+    border-radius: 5px;
+}
+
+.redes{
+    margin-bottom: 1rem;
+}

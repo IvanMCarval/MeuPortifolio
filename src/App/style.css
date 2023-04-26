@@ -1,0 +1,24 @@
+.divContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;    
+}
+
+.divRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.divColumn{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 60%;
+}
+
+.divRepositorios{
+    display: flex;
+    justify-content: center;
+    width: 30%;
+}

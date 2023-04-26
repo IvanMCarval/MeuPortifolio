@@ -1,0 +1,17 @@
+.repoContainer{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.repoContainer h1{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.repoContainer article{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
