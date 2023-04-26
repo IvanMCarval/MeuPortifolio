@@ -7,7 +7,7 @@ function Perfil() {
     <div className="perfilContainer">
       <div className="divImg">
         <img
-          src="/src/assets/20230316_102551.jpg"
+          src="/src/assets/20230316_102551.svg"
           className=""
         />
       </div>
