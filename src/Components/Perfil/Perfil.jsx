@@ -6,7 +6,7 @@ function Perfil() {
     <div className="perfilContainer">
       <div className="divImg">
         <img
-          src="../../../../MeuPortifolio/src/Components/Perfil/img/20230316_102551.jpg"
+          src="../../../src/Components/Perfil/img/20230316_102551.jpg"
         />
       </div>
       <div className="divSobre">
