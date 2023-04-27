@@ -1,13 +1,12 @@
 import React from "react";
 import "./style.css";
-import { Avatar, Box, Container, Grid } from "@mui/material";
 
 function Perfil() {
   return (
     <div className="perfilContainer">
       <div className="divImg">
         <img
-          src="./src/assets/20230316_102551.svg"
+          src="./src/assets/20230316_102551.jpg"
         />
       </div>
       <div className="divSobre">
